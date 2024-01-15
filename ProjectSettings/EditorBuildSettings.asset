@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/ProvaMeshing.unity
-    guid: b3af40ed45658f64daf1b4aab7b5cc29
+    path: Assets/Scenes/ProvaMeshingCotxe.unity
+    guid: c5f9dcb7fa779e048ba28448525472f5
   m_configObjects:
     Niantic.Lightship.AR.LightshipSettings: {fileID: 11400000, guid: d29ae9d05257c814cbef013513396456, type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 84400f65ba34f9447aaabdb4d2da25ae, type: 2}
