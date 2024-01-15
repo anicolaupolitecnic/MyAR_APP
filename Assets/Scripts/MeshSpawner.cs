@@ -21,7 +21,7 @@ public class MeshSpawner : MonoBehaviour
     {
         meshRenderer = GetComponent<MeshRenderer>();
         meshFilter= GetComponent<MeshFilter>();
-        aRCamera= GameManager.Instance.ARCamera;
+        //aRCamera= GameManager.Instance.ARCamera;
     }
 
     void Update()

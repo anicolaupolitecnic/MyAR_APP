@@ -12,7 +12,7 @@ public class Launcher : MonoBehaviour
 
     void Start()
     {
-        aRCamera = GameManager.Instance.ARCamera;
+        //aRCamera = GameManager.Instance.ARCamera;
     }
 
     void Update()
